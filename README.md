@@ -4,7 +4,7 @@ Increment the version from the Tools > Increment Version menu
 ![g15sxSV](https://user-images.githubusercontent.com/80344773/199745603-3bce6e97-a0a4-47bf-bd93-5f4f181a1947.png)
 
 #### Patch
-Patch button will increment the X by one 1.0.XX
+Patch button will increment the X by one: 1.0.XX
 
 #### Minor
 Minor button will increment the X by one: 1.XX.0  
