@@ -1,5 +1,5 @@
 # unity-version-increment-tool
-Increment the version from the Tools > Increment Version menu
+Increment the build version from the Tools > Increment Version menu
 
 ![g15sxSV](https://user-images.githubusercontent.com/80344773/199745603-3bce6e97-a0a4-47bf-bd93-5f4f181a1947.png)
 
